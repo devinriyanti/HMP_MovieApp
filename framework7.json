@@ -1,0 +1,18 @@
+{
+  "cwd": "C:\\Users\\Windows10\\Hybrid Mobile Programming",
+  "type": [
+    "web"
+  ],
+  "name": "160419083_MyMovie",
+  "framework": "core",
+  "template": "blank",
+  "bundler": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
